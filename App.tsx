@@ -4,11 +4,11 @@ import * as React from 'react';
 
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { InitialScreen } from './pages/Initial';
-import { LoginScreen } from './pages/Login';
-import { SignupScreen } from './pages/Signup';
-import { OrderScreen } from './pages/Order';
-import { ViewOrderScreen } from './pages/ViewOrder';
+import { InitialScreen } from './screens/Initial';
+import { LoginScreen } from './screens/Login';
+import { SignupScreen } from './screens/Signup';
+import { OrderScreen } from './screens/Order';
+import { ViewOrderScreen } from './screens/ViewOrder';
 
 
 
